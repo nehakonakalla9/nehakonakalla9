@@ -1,4 +1,4 @@
-Heeellooo, I’m Neha, Technical Analyst at Angadi World Technologies. 👋
+Heeellooo 👋, I’m Neha, Technical Analyst at Angadi World Technologies.💻
 
 Aspiring for Software Engineer, Software Developer, or SDET roles, skilled in Python , with a knack for problem-solving and building scalable solutions.
 
