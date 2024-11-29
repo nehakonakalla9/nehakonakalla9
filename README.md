@@ -1,16 +1,16 @@
-## Hi there 👋
+#Hi, I’m Neha, Technical Analyst at Angadi World Technologies. 👋
 
-<!--
-**nehakonakalla9/nehakonakalla9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring for Software Engineer, Software Developer, or SDET roles, skilled in Python and Java, with a knack for problem-solving and building scalable solutions.
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=0&width=435&lines=Software+Engineer+%7C+SDE+%7C+SDET+Roles;Python+%7C+C+%7C+SQL+%7C+Tableau;Fast+Learner+%7C+Crisp+Coder)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📫 Let's Connect
+
+
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nehakonakalla9/)
+[![Email](https://img.shields.io/badge/Email-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neha.konakalla9@gmail.com)
+
+Always open to connect—whether it’s for collaboration, brainstorming, or just a quick chat. Excited to engage with fellow developers and tech enthusiasts. Let’s build something great together!
+
