@@ -2,7 +2,7 @@ Heeellooo 👋, I’m Neha, Technical Analyst at Angadi World Technologies.💻
 
 Aspiring for Software Engineer, Software Developer, or SDET roles, skilled in Python , with a knack for problem-solving and building scalable solutions.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=0&width=435&lines=Software+Engineer+%7C+SDE+%7C+SDET;Python+%7C+HTML+%7C+JS+%7C+CSS;Fast+Learner+%7C+Crisp+Coder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=0&width=435&lines=Software+Engineer+%7C+DSA+%7C+AI;Python+%7C+REACT+%7C+JS+%7C+FLASK;Fast+Learner+%7C+Crisp+Coder)](https://git.io/typing-svg)
 
 
 Let's Connect 😊
