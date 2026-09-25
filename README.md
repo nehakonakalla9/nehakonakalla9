@@ -2,7 +2,7 @@ Heeellooo 👋, I’m Neha, Software Engineer at Angadi World Technologies.💻
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=0&width=435&lines=Software+Engineer+%7C+DSA+%7C+AI;Python+%7C+REACT+%7C+Type+Script;React+%7C+Crisp+Coder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=0&width=435&lines=Software+Engineer+%7C+DSA+%7C+AI;Python+%7C+REACT+%7C+Type+Script)](https://git.io/typing-svg)
 
 
 Let's Connect 😊
