@@ -10,6 +10,7 @@ Let's Connect 😊
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue)](https://www.linkedin.com/in/neha-konakalla-733072a5/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=orange)](https://leetcode.com/u/neha_konakalla/)
+[![Resume](https://img.shields.io/badge/Resume-2EA44F?style=for-the-badge&logo=readme&logoColor=white&labelColor=green)](https://github.com/nehakonakalla9/nehakonakalla9/blob/main/Neha_Konakalla_Resume.pdf)
 
 Always open to connect—whether it’s for collaboration, brainstorming, or just a quick chat. Excited to engage with fellow developers and tech enthusiasts. Let’s build something great together!
 
